@@ -12,25 +12,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/PandaTestGrid?style=social)](https://twitter.com/PandaTestGrid)
 
 </div>
-
----
-
-## 🎯 关于我
-
-我是一名专注于**云测试平台**开发的架构师，致力于为移动应用提供专业的测试解决方案。目前正在开发 **PandaTest 云真机测试平台** - 支持Web、Android、iOS、鸿蒙等多平台的一站式测试平台。
-
-🌐 **官方网站**: [https://pandatestgrid.github.io/](https://pandatestgrid.github.io/)
-
-### 💼 当前工作
--  正在开发：**PandaTest 云真机测试平台**
--  学习中：**分布式架构**、**云原生测试**、**鸿蒙系统适配**
--  合作意向：**开源测试工具**、**移动应用测试**
--  聊聊：**云测试**、**移动端自动化**、**设备管理**、**分布式系统**
-
----
-
-## 🌟 主要项目
-
 ### 🐼 PandaTest 云真机测试平台
 
 <div align="center">
