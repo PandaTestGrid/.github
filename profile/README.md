@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
+  
+<!-- 个人头像/Logo位置 -->
+<img src="https://pandatestgrid.github.io/logo.png" alt="PandaTest Creator" width="200" style="border-radius: 50%;"/>
 
-<!--
-**PandaTestGrid/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm PandaTest Creator!
 
-Here are some ideas to get you started:
+### 🚀 云测试平台开源贡献者
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=PandaTestGrid&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/PandaTestGrid?style=social)](https://github.com/PandaTestGrid)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PandaTestGrid?style=social)](https://twitter.com/PandaTestGrid)
+
+</div>
+
+---
+
+## 🎯 关于我
+
+我是一名专注于**云测试平台**开发的架构师，致力于为移动应用提供专业的测试解决方案。目前正在开发 **PandaTest 云真机测试平台** - 支持Web、Android、iOS、鸿蒙等多平台的一站式测试平台。
+
+🌐 **官方网站**: [https://pandatestgrid.github.io/](https://pandatestgrid.github.io/)
+
+### 💼 当前工作
+-  正在开发：**PandaTest 云真机测试平台**
+-  学习中：**分布式架构**、**云原生测试**、**鸿蒙系统适配**
+-  合作意向：**开源测试工具**、**移动应用测试**
+-  聊聊：**云测试**、**移动端自动化**、**设备管理**、**分布式系统**
+
+---
+
+## 🌟 主要项目
+
+### 🐼 PandaTest 云真机测试平台
+
+<div align="center">
+</div>
+
+**专业的移动应用测试解决方案**
+
+🌐 **官方网站**: [https://pandatestgrid.github.io/](https://pandatestgrid.github.io/)
+
+#### 🎯 核心功能
+
+<div align="center">
+
+</div>
+
+- **设备远程控制** - 实时屏幕共享、触控操作、灵活布局，支持iOS、Android设备
+- **智能设备管理** - 多维度筛选、设备分组、状态监控，批量操作和管理
+- **自动化测试** - 测试套件管理、脚本录制回放、多设备并发测试
+- **资源管理系统** - 应用包管理、Agent节点管理、文件管理
+- **性能监控** - 实时监控设备性能指标，数据可视化展示
+- **分布式架构** - 云端分布式部署，弹性扩容，多节点负载均衡
+
+#### 📱 支持平台
+- ✅ **Android** - 完整支持Android设备测试
+- ✅ **iOS** - 原生iOS设备控制和测试
+- ✅ **HarmonyOS** - 华为鸿蒙系统适配
+- ✅ **Web** - 跨浏览器Web应用测试
+
+---
+<div align="center">
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaTestGrid&theme=radical" alt="GitHub Streak" width="400"/>
+
+</div>
+<div align="center">
+
+### 🌟 如果PandaTest云真机测试平台对您有帮助，请给个Star！
+
+**感谢您的支持！🐼**
+
+[![Visit PandaTest](https://img.shields.io/badge/🌐_访问官网-pandatestgrid.github.io-blue?style=for-the-badge)](https://pandatestgrid.github.io/)
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+---
+</div> 
