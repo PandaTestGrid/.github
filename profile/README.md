@@ -1,7 +1,6 @@
 <div align="center">
   
 <!-- 个人头像/Logo位置 -->
-<img src="https://pandatestgrid.github.io/logo.png" alt="PandaTest Creator" width="200" style="border-radius: 50%;"/>
 
 # 👋 Hi, I'm PandaTest Creator!
 
@@ -12,12 +11,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/PandaTestGrid?style=social)](https://twitter.com/PandaTestGrid)
 
 </div>
-### 🐼 PandaTest 云真机测试平台
+
+## 🌟 主要项目
+
+### 🐼 PandaTest 云真机测试平台 专业的移动应用测试解决方案
 
 <div align="center">
 </div>
 
-**专业的移动应用测试解决方案**
+****
 
 🌐 **官方网站**: [https://pandatestgrid.github.io/](https://pandatestgrid.github.io/)
 
