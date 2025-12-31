@@ -21,7 +21,9 @@
 
 ****
 
-🌐 **官方网站**: [https://pandatestgrid.github.io/](https://pandatestgrid.github.io/)
+🌐 **官方网站**: [https://www.pandatest.net/](https://www.pandatest.net/)
+🌐 **文档网站**: [https://docs.pandatest.net/](https://docs.pandatest.net/)
+
 
 #### 🎯 核心功能
 
@@ -54,7 +56,7 @@
 
 **感谢您的支持！🐼**
 
-[![Visit PandaTest](https://img.shields.io/badge/🌐_访问官网-pandatestgrid.github.io-blue?style=for-the-badge)](https://pandatestgrid.github.io/)
+[![Visit PandaTest](https://img.shields.io/badge/🌐_访问官网-pandatestgrid.github.io-blue?style=for-the-badge)](https://docs.pandatest.net/)
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
