@@ -42,6 +42,7 @@
 - ✅ **Android** - 完整支持Android设备测试
 - ✅ **iOS** - 原生iOS设备控制和测试
 - ✅ **HarmonyOS** - 华为鸿蒙系统适配
+- ✅ **Windows** - Windows系统适配
 - ✅ **Web** - 跨浏览器Web应用测试
 
 ---
